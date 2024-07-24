@@ -1,7 +1,7 @@
 services:
-  soloviov-demo:
-    hostname: soloviov-demo
-    image: hordesalik/soloviov-demo:1.1.2
+  soloviov-demo-web-proxy:
+    hostname: soloviov-demo-web-proxy
+    image: hordesalik/soloviov-demo-web-proxy:1.0.0
     ports:
       - 80:80
 
