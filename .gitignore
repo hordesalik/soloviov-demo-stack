@@ -1,2 +1,6 @@
 /the_page_backend_gwt_secret.txt
 /the_page_mongo_uri.txt
+/mongo_data/
+/the_page_me_config_basicauth_password.txt
+/the_page_me_config_basicauth_username.txt
+/the_page_me_config_basicauth.txt
