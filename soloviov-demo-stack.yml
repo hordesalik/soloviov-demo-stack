@@ -28,7 +28,7 @@ services:
       SHORT_TIME_CODE_API_ORIGIN: http://short-time-code:80
 
   soloviov-demo-frontend:
-    image: hordesalik/soloviov-demo-frontend:1.0.0
+    image: hordesalik/soloviov-demo-frontend:1.1.0
     hostname: soloviov-demo-frontend
     environment:
       NO_DOTENV: 1
